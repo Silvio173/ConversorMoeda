@@ -1,5 +1,5 @@
 <h1 align="center"> CONVERSOR DE MOEDAS </h1>
-<h2 align="left"> Conversor de moedas em Java com acesso a api </h2>
+<h2 align="left"> Conversor de moedas em Java utilizado API do ExchangeRate-API </h2>
 </br>
 </br>
 </br>
